@@ -4,7 +4,7 @@
   <name>kinova_gen3_control_interfaces</name>
   <version>0.0.0</version>
   <description>interface package for kinova_gen3_control_cpp</description>
-  <maintainer email="drogowskimateusz8@gmail.com">bruh</maintainer>
+  <maintainer email="drogowskimateusz8@gmail.com">Mateusz Drogowski</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
