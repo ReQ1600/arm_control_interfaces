@@ -1,5 +1,5 @@
 # kinova_gen3_control_interfaces
-ROS2 interfaces package for PUTLunarTeam [kinova_gen3_control_cpp](https://github.com/ReQ1600/kinova_gen3_control_cpp)
+ROS2 interfaces package for PUTLunarTeam repository [kinova_gen3_control_cpp](https://github.com/ReQ1600/kinova_gen3_control_cpp)
 
 Package created and tested on ROS2 Humble
 
